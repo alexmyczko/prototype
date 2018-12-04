@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=Game;ActionGame;
+Name=Prototype
+Comment=ProtoType (R-Type remake) 2d spaceship shooter
+Keywords=game;r-type;
+Exec=prototype
+Icon=prototype
